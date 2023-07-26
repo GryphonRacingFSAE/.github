@@ -3,4 +3,4 @@
 ## Useful Resources
 
 - Start at the Gryphon Racing Programming [Wiki](https://github.com/GryphonRacingFSAE/Wiki)!
-- Contribution guidlines can be found [here](https://github.com/GryphonRacingFSAE/Wiki/blob/main/CONTRIBUTING.md).
+- Contribution guidelines can be found [here](https://github.com/GryphonRacingFSAE/Wiki/blob/main/CONTRIBUTING.md).
